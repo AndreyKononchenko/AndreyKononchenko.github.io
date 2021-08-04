@@ -1,0 +1,67 @@
+.info{
+    position: relative;
+    display: flex;
+}
+.photo img {
+    width: 400px;
+    padding-right: 40px;
+    
+}
+.FIO h1{
+  font-size: 40px;
+  margin: 0;
+}
+.photo{
+    padding: 0;
+    margin: 0;
+}
+.InfAbMe ul{
+    position: relative;
+    padding: 0;
+    list-style-type: none;
+}
+.info ul{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+.info ul h1{
+    padding-bottom: 30px;
+}
+ul .list li{
+    padding-bottom: 15px;
+}
+.TablName{
+    position: relative;
+    
+}
+.table{
+    position: relative;
+    width: 100%;
+}
+td{
+    text-align: center;
+    padding: 2px 3px;
+    border: 1px solid black;
+}
+table{
+    width: 80%;
+    border: 1px solid black;
+}
+.input{
+    position: absolute;
+    display: flex;
+}
+.input ul{
+    list-style: none;
+}
+.input li p{
+    padding-bottom: 10px;
+    margin: 0;
+}
+.kek{
+    background-color: blue;
+    border-color: green;
+    width: 120px;
+    color: white;
+}
